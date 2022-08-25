@@ -6,6 +6,7 @@ int main()
     int i;
     int array_length;
     
+    // User may change at their discretion
     int array[10] = {19, 10, 8, 17, 9, 1, 3, 2, 4, 5};
     
     array_length = sizeof(array) / sizeof(int);
